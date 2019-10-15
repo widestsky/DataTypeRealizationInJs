@@ -1,6 +1,4 @@
 class Stack {
-  count;
-  storage;
 
   constructor() {
     this.count = 0;

@@ -1,3 +1,3 @@
-let Stack = require('./Stack');
-let Queue = require('./Queue');
-let PriorityQueue = require('./PriorityQueue');
+let Stack = require('./App/Stack');
+let Queue = require('./App/Queue');
+let PriorityQueue = require('./App/PriorityQueue');

@@ -1,7 +1,8 @@
 class Queue {
-  storage = [];
 
-  constructor() {}
+  constructor() {
+    this.storage = [];
+  }
 
   enqueue(val) {
     this.storage.push(val);
