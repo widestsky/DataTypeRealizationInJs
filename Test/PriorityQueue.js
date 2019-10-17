@@ -20,6 +20,6 @@ describe("Test class Priority Queue", () => {
     expect(queue.size()).to.equal(6);
     expect(queue.dequeue()).to.deep.equal(['sixth', 3]);
     expect(queue.size(), 'queue size').to.equal(5);
-    console.log(queue.storage);
+    // console.log(queue.storage);
   })
 })
